@@ -1,0 +1,4 @@
+external/atfeed-cppsdk/
+test/config.h
+data/
+build/
